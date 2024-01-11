@@ -1,2 +1,3 @@
 # CAR-PRICE-PREDICTION-WITH-MACHINE-LEARNING
-Predicting car prices using machine learning involves leveraging historical data, such as car specifications, mileage, age, brand, and market trends. 
+
+Predicting car prices using machine learning involves leveraging historical data, such as car specifications, mileage, age, brand, and market trends. Features like engine size, fuel efficiency, and additional amenities contribute to building a predictive model. Regression algorithms, such as linear regression or decision trees, can be applied to learn patterns and make predictions. It's important to regularly update the model with new data and consider factors like economic conditions and industry advancements. Keep in mind that machine learning predictions are estimates, and real-world factors may influence car prices beyond the scope of historical data.
